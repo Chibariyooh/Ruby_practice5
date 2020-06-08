@@ -1,24 +1,16 @@
 # README
+* Ruby version:2.6.6  
+# Chart.jsの導入
+### ・現在は折れ線グラフの導入
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### ・棒グラフ・円グラフにも対応可能
+```
+```rb
+puts "hello world"```
 
-Things you may want to cover:
+```
 
-* Ruby version
+### (作動方法)  
+コマンドで作動させるディレクトリに移動した後、```rails s```でサーバーを起動。　　
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[localhost:3000]を検索。
